@@ -1,3 +1,9 @@
 # Google authentication with django
 
-This project will help in sign-up with google in django application.
+This project is designed to sign-up with Google in the Django app.
+
+# Requirements
+
+    - python 3.x
+    - django==3.0.10
+    - django-allauth
